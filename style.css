@@ -1,0 +1,30 @@
+body{
+background-color:white;
+margin: 10px;
+}
+
+#tit{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 50px;
+}
+
+#marqueestyle{
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif;
+}
+
+#ceo{
+    width: 700px;
+    height: 500px;
+}
+
+#ISRO1{
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+}
+
+#credit{
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
